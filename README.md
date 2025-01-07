@@ -8,4 +8,4 @@ SSH - [Here](https://neighborly-blender-866.notion.site/SSH-8b4c761100b44539ba39
 
 ![](https://media.giphy.com/media/Idg2rAVGS3xMZtBdhu/giphy.gif)
 
-Test from Aicadium
+Test from Aicadium.ai
